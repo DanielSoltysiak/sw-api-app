@@ -1,0 +1,9 @@
+.navbar {
+  position: absolute;
+  z-index: 2;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
